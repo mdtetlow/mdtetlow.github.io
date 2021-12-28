@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## (ISC)² CSSLP
 
-You can use the [editor on GitHub](https://github.com/mdtetlow/mdtetlow.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[(ISC)² CSSLP official information](https://www.isc2.org/Certifications/CSSLP)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+: _CSSLP certification recognizes leading application security skills. It shows employers and peers you have the advanced technical skills and knowledge necessary for authentication, authorization and auditing throughout the SDLC using best practices, policies and procedures established by the cybersecurity experts at (ISC)²._
 
-### Markdown
+(ISC)² CSSLP specific [notes](certification/isc2.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Software Security
 
-```markdown
-Syntax highlighted code block
+Software Security specific [notes](security/security.md)
 
-# Header 1
-## Header 2
-### Header 3
+## GitHub Workflow
 
-- Bulleted
-- List
+GitHub Workflow / Actions notes - _tbd_
 
-1. Numbered
-2. List
+## Languages
 
-**Bold** and _Italic_ and `Code` text
+Programming language specific notes
 
-[Link](url) and ![Image](src)
-```
+[Ruby](language/ruby.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Python](language/python.md)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mdtetlow/mdtetlow.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
