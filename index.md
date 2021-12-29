@@ -10,6 +10,10 @@
 
 Software Security specific [notes](security/security.md)
 
+## Blogs / Webinars
+
+[Summary](articles.md) of useful / interresting content
+
 ## GitHub Workflow
 
 GitHub Workflow / Actions notes - _tbd_

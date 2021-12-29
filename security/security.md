@@ -1,1 +1,5 @@
-# Secuirty
+# Security
+
+ - [Hash function](hash.md)
+
+
