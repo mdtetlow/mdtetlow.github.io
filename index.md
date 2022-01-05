@@ -12,7 +12,7 @@ Study [notes](certification/wip/aws/saa-c02/notes.md) relating to AWS Solutions 
 
 ## Software Security
 
-Software Security specific [notes](security/security.md)
+Software Security specific [notes](security/notes.md)
 
 ## Blogs / Webinars
 
