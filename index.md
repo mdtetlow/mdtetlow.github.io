@@ -4,7 +4,11 @@
 
 : _CSSLP certification recognizes leading application security skills. It shows employers and peers you have the advanced technical skills and knowledge necessary for authentication, authorization and auditing throughout the SDLC using best practices, policies and procedures established by the cybersecurity experts at (ISC)²._
 
-(ISC)² CSSLP specific [notes](certification/isc2.md)
+(ISC)² CSSLP specific [notes](certification/active/isc2/csslp/isc2.md)
+
+## AWS Solutions Architect Associate
+
+Study [notes](certification/wip/aws/saa-c02/notes.md) relating to AWS Solutions Architect examination
 
 ## Software Security
 
