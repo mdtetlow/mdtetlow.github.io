@@ -5,6 +5,8 @@ Software security requirements fall into 2 categories:
   1. SW Security functions (crytography and user authentication functions)
   1. SW properties and behaviours
 
+*The CIA triad and the AAA model*
+
 Use the core to build a security requirements that include General, Operational and Other security requirements:
 
 ![Security Requirements](/docs/assets/images/sw_sec_requirements.png)
