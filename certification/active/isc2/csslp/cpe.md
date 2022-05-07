@@ -2,4 +2,4 @@
 
 |Date|Credits|Type|Summary|link|
 |----|:-----:|:--:|-------|----|
-|22-05-07|1|A|History of Metasploit and exploration of highs and lows of a dangeroud tool a tool|[details](cpe/template.md)|
+|22-05-07|1|A|History of Metasploit and exploration of highs and lows of a dangeroud tool a tool|[details](cpe/darknet_diaries_metasploit.md)|
