@@ -29,6 +29,14 @@
 
 *Name/Link the activity here: Webinar, Online course, ...*
 
+Title: _______________________
+
+Subject: _____________________
+
+Duration: HH:MM
+
+Date: YYYY-MM-DD
+
 **Summary**
 
 *Provide a summary of the activity here*
