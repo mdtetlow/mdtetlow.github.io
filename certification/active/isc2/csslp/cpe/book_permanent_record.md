@@ -6,7 +6,7 @@
 
 **Credits**
 
-*10*
+*5*
 
 **Domains**
 

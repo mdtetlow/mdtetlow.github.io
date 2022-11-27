@@ -25,7 +25,7 @@ Subject: Javascript course covering the introduction to intermediate level.
 
 Duration: 4:00
 
-Date: 2022-10-01 - 2022-10-31
+Date: 2022-10-10 - 2022-10-27
 
 **Summary**
 
